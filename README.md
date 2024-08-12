@@ -21,3 +21,9 @@ The **Car Sales Dashboard Details** provides in-depth information based on user 
 - **Detailed Sales Data**: A table displaying detailed sales data for the selected region, time period, or car model.
 - **Customer Demographics**: Insights into the demographics of customers who purchased cars.
 - **Sales Performance Metrics**: Key performance indicators (KPIs) such as average sales price, total revenue, and units sold.
+
+# Video
+
+
+https://github.com/user-attachments/assets/2bd1f4a6-1e4a-4e38-af25-09e8ef951809
+
